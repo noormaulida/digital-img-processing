@@ -1,0 +1,14 @@
+Final Project Pengolahan Citra Digital
+"Klasifikasi Kanker Payudara"
+
+Noor Maulida		5110100018
+Luluk Eko Mawati	5110100150
+======================================
+1. Buka Matlab
+2. Jalankan MainMenu
+3. Pilih tombol "Training Data" untuk melakukan training
+4. Setelah training selesai, pilih tombol "Classify Data"
+5. Pilih file yang ada pada folder Data Test
+6. Klik tombol "Classify Image"
+7. Hasil enhancement, segmentasi dapat dilihat pada panel "Mammograph", sedangkan hasil ekstraksi fitur dapat dilihat di panel "Feature Extraction" dan hasil klasifikasi dapat dilihat di panel "Result"
+8. Tekan tombol "Browse file" untuk mencari gambar lain untuk diklasifikasi.
